@@ -4,8 +4,10 @@ Action recognize -- my graduation project of bachular
 -------------------------------------------------------
 use htm(https://github.com/numenta/nupic) to create a action recognize program
 
-Dependents 
+Dependencies
 -------------------------------------------------------
 opencv 2.14
+
 python 2.7
-numpic（https://github.com/numenta/nupic）
+
+numic（https://github.com/numenta/nupic）
