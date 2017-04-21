@@ -1,0 +1,36 @@
+
+                 shape=(32, 32),  # tuple -- two element
+                 inputDimensions=(1024,),  # tuple two element or int
+                 columnDimensions=2048,  # int, tuple is not allowed
+                 globalInhibition=1,
+                 sp_seed=1960,
+                 potentialPct=0.8,
+                 synPermConnected=0.10,
+                 synPermActiveInc=0.05,
+                 synPermInactiveDec=0.0008,
+                 maxBoost=2.0,
+
+                 potentialRadius=16,
+                 numActiveColumnsPerInhArea=40.0,
+                 localAreaDensity=-1.0,
+                 stimulusThreshold=0,
+
+                 numberOfCols=2048,  # int
+                 cellsPerColumn=16,  # 32 is the official setting
+                 tp_seed=1960,
+                 newSynapseCount=20,
+                 maxSynapsesPerSegment=32,
+                 maxSegmentsPerCell=128,
+                 initialPerm=0.21,
+                 permanenceInc=0.1,
+                 permanenceDec=0.05,  # 0.1 is the official setting
+                 globalDecay=0,
+                 maxAge=0,
+                 minThreshold=12,
+                 activationThreshold=16,
+                 pamLength=1,
+
+                 connectedPerm=0.5,
+                 burnIn=2,
+
+                 visible=1
