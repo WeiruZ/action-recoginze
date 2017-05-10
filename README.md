@@ -10,4 +10,4 @@ opencv 2.14
 
 python 2.7
 
-numic（https://github.com/numenta/nupic）
+nupic（https://github.com/numenta/nupic）
